@@ -1,0 +1,25 @@
+Copyright (c) 2026 Hx0 DataGuard contributors
+
+All rights reserved.
+
+Permission is granted to install and use the Hx0 DataGuard browser extension
+binaries or builds obtained from official distribution channels (including
+offline release packages, Chrome Web Store, Firefox Add-ons, or authorized
+mirrors) for personal or organizational security self-check purposes.
+
+You may not, without prior written permission:
+
+- Redistribute modified or unmodified extension packages except as allowed by
+  the distribution channel that supplied them;
+- Reverse engineer, decompile, or create derivative works of the extension
+  except where applicable law expressly permits such activity;
+- Remove or alter copyright notices, legal documents, or membership
+  integration required for licensed features.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. Extension
+outputs are for assistance only and do not replace formal security testing,
+code review, or compliance conclusions. See in-extension Terms & Privacy
+and the user manual for data handling and third-party membership services.
+
+For licensing inquiries, contact the project maintainer through official
+support channels listed in the distribution package or store listing.
